@@ -14,3 +14,5 @@ Download "git" terlebih dahulu di website resminya Git (git-scm.com)
 
 buat akun anda di git, dengan memasukan email dan password
 email : mtrizkiyah@gmail.com
+
+[ALT text](http://full/path/to/img.jpg "screenshot (1)
