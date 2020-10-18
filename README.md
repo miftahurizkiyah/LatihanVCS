@@ -12,3 +12,4 @@ Tugas : Bahasa Pemrograman Part 4
 Download "git" terlebih dahulu
 
 buat akun anda di git, dengan memasukan email dan password
+email : mtrizkiyah@gmail.com
