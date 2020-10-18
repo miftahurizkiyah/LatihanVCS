@@ -9,7 +9,8 @@ Kelas: TI.20.B.1
 
 Tugas : Bahasa Pemrograman Part 4
 
-Download "git" terlebih dahulu
+Download "git" terlebih dahulu di website resminya Git (git-scm.com)
+
 
 buat akun anda di git, dengan memasukan email dan password
 email : mtrizkiyah@gmail.com
