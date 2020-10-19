@@ -1,5 +1,7 @@
 # LatihanVCS
-Repository ini dibuat untuk memenuhi tugas pertemuan 4 bahasa pemrograman
+
+Repositori ini dibuat untuk memenuhi tugas bahasa pemrograman part 4
+
 
 Nama : Miftahu Rizkiyah
 
