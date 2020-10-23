@@ -46,6 +46,7 @@ Untuk membuatnya bisa menggunakan Link berikut : [GitHub Sign Up](https://github
 ![Git Pict](gambar/copy.PNG)
 
 * Buka file explorer dan pilih satu folder agar repositori bisa di clone/diunduh di lokal PC. Kemudian klik kanan pada halaman kosong dalam folder tersebut dan pilih *Git Bash Here*.<br>
-![Git Pict](gambar/here.PNG)
+![Git Pict](gambar/klik-kanan.PNG)
 
-*
+* Setelah muncul *pop up* CMD, silahkan edit file README.md yang ada di folder repository tersebut menggunakan text editor.<br>
+![Git Pict](gambar/edit.PNG)
