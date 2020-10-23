@@ -53,3 +53,12 @@ Untuk membuatnya bisa menggunakan Link berikut : [GitHub Sign Up](https://github
 
 * File telah diedit dan silahkan save dengan menekan CTRL+S atau File->Save, dan lakukan upload ke Github melalui GitBash. Dengan mengetikkan perintah *git add .*<br>
 ![Git Pict](gambar/add.PNG)
+
+* Setelah melakukan add, lakukkan commit dengan mengetikkan perintah *git commit -m "Perintah/Kalimat perubahan"*<br>
+![Git Pict](gambar/commit.PNG)
+
+* Langkah terakhir yang dilakukan dalam Gitbash adalah melakukan Git Push, silahkan ketik pada CMD dengan *git push*
+![Git Pic](gambar/push.PNG)
+
+* Lihat Langkah terakhir di GitHub dengan merefresh halaman di github. Maka akan muncul perubahan.
+![Git Pict Last](gambar/view2.PNG)
