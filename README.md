@@ -39,8 +39,13 @@ Untuk membuatnya bisa menggunakan Link berikut : [GitHub Sign Up](https://github
 * Isi kolom-kolom yang tersedia, dan jangan lupa untuk mencentang *Tambahkan file README.md*.<br>
 ![Git Pict](gambar/create.PNG)
 
-* Setelah repositori berhasil dibuat, copy link repository agar bisa di remote di lokal PC. Lihat seperti gambar dibawah ini :<br>
+* Setelah repositori berhasil dibuat, maka repositori akan muncul seperti ini. <br>
+![Git Pict](gambar/view1.PNG)
+
+* Setelah semua pembuatan akun dan repositori selesai, selanjutnya copy link repository agar bisa di remote di lokal PC. Lihat seperti gambar dibawah ini :<br>
 ![Git Pict](gambar/copy.PNG)
 
 * Buka file explorer dan pilih satu folder agar repositori bisa di clone/diunduh di lokal PC. Kemudian klik kanan pada halaman kosong dalam folder tersebut dan pilih *Git Bash Here*.<br>
 ![Git Pict](gambar/here.PNG)
+
+*
