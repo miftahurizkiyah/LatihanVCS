@@ -26,3 +26,9 @@ Untuk mengecek apakah username berhasil di konfigurasi atau belum, bisa mengguna
 
 ![Git Pict](gambar/username.PNG)
 
+* Setelah melakukan konfigurasi pada username, hal yang sama dilakukan untuk mengkonfigurasi git email. Untuk mengkonfigurasi awal dengan menggunakan syntax : *git config --global user.email "masukkan email disini"*. Dan untuk mengecek status konfigurasinya bisa mengetikkan syntax : *git config --global user.email*
+![Git Pict](gambar/useremail.PNG)
+
+* Konfigurasi pengguna di Git telah selesai dilakukan, langkah selanjutnya adalah membuat Akun Github. <br>
+Untuk membuatnya bisa menggunakan Link berikut : [GitHub Sign Up](https://github.com)<br>
+![Git Pict](gambar/signup-github.PNG)
