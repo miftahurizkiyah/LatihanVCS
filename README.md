@@ -50,3 +50,6 @@ Untuk membuatnya bisa menggunakan Link berikut : [GitHub Sign Up](https://github
 
 * Setelah muncul *pop up* CMD, silahkan edit file README.md yang ada di folder repository tersebut menggunakan text editor.<br>
 ![Git Pict](gambar/edit.PNG)
+
+* File telah diedit dan silahkan save dengan menekan CTRL+S atau File->Save, dan lakukan upload ke Github melalui GitBash. Dengan mengetikkan perintah *git add .*<br>
+![Git Pict](gambar/add.PNG)
