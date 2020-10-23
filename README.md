@@ -18,6 +18,11 @@ Setelah klik Tombol Download, akan muncul halaman *Download Page*, kemudian klik
 ![Git-Pict](gambar/jurnalweb.PNG)
 
 * Setelah langkah-langkah installasi Git pada windows selesai, langkah berikutnya cek git tersebut berjalan atau tidak. Dengan membuka Aplikasi **Git Bash** pada menu Windows, kemudian mengetikkan perintah : *git --version* <br>
-Seperti gambar dibawah ini :
+Seperti gambar dibawah ini : <br>
 ![Git-Pict](gambar/version.PNG)
+
+* Pengecekan Git Version telah berhasil, saat ini waktu untuk mengkonfigurasi Username dan Email pada Git. Langkah Pertama setting/konfigurasi Username terlebih dahulu, dengan mengetikkan perintah berikut pada Git Bash : *git config --global user.name "Masukkan Nama Anda disini"* <br>
+Untuk mengecek apakah username berhasil di konfigurasi atau belum, bisa menggunakan perintah berikut : *git config --global user.name"* Seperti gambar dibawah ini. <br>
+
+![Git Pict](gambar/username.PNG)
 
