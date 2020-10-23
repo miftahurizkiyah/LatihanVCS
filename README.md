@@ -32,3 +32,9 @@ Untuk mengecek apakah username berhasil di konfigurasi atau belum, bisa mengguna
 * Konfigurasi pengguna di Git telah selesai dilakukan, langkah selanjutnya adalah membuat Akun Github. <br>
 Untuk membuatnya bisa menggunakan Link berikut : [GitHub Sign Up](https://github.com)<br>
 ![Git Pict](gambar/signup-github.PNG)
+
+* Setelah akun github selesai dibuat, saatnya membuat Repositori, dengan mengikuti langkah2 berikut. Klik Baru / New Repository.<br>
+![Git Pict](gambar/new-github.PNG)
+
+* Isi kolom-kolom yang tersedia, dan jangan lupa untuk mencentang *Tambahkan file README.md*.<br>
+![Git Pict](gambar/create.PNG)
