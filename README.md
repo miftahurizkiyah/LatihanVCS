@@ -14,7 +14,7 @@ Pada halaman ini silahkan klik **Download**<br>
 ![Git-Pict](gambar/gitdownload.PNG)<br>
 Setelah klik Tombol Download, akan muncul halaman *Download Page*, kemudian klik **Windows**
 
-* Langkah kedua, setelah git terunduh, lakukan installasi Aplikasi Git. Dengan mengikuti langkah-langkah pada halaman web berikut (Link Referensi : [https://www.jurnalweb.com/cara-menginstall-git-di-windows/](Jurnal Web - Installasi Git) )<br>
+* Langkah kedua, setelah git terunduh, lakukan installasi Aplikasi Git. Dengan mengikuti langkah-langkah pada halaman web berikut. Link Referensi : [https://www.jurnalweb.com/cara-menginstall-git-di-windows/](Jurnal Web - Installasi Git) <br>
 ![Git-Pict](gambar/jurnalweb.PNG)
 
 * 
